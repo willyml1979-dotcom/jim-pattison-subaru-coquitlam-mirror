@@ -1,6 +1,6 @@
 {
   "dealership": "Jim Pattison Subaru Coquitlam",
-  "generated_at": "2026-10-04T18:34:34",
+  "generated_at": "2026-10-08T14:38:50",
   "vehicle_count": 159,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -10,6 +10,7 @@
       "vin": "JF2SJCHC9GH553121",
       "stock": "T828908",
       "color": "Green",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/used/49b3d1ce1b1a.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2016/subaru/forester/port-coquitlam/bc/71413625/?sale_class=used",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2016/subaru/forester/port-coquitlam/bc/71413625/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -19,14 +20,17 @@
       "odometer_km": 33264,
       "year": 2016,
       "make": "Subaru",
-      "model": "Forester Touring, Low kms, One Owner",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2022 Subaru Ascent Limited, No Accidents, One Owner, BC Vehicle",
       "vin": "4S4WMAPD5N3454811",
       "stock": "TY00639",
       "color": "White",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/used/0c7eda810ba2.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2022/subaru/ascent/port-coquitlam/bc/71412886/?sale_class=used",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2022/subaru/ascent/port-coquitlam/bc/71412886/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -36,14 +40,17 @@
       "odometer_km": 87096,
       "year": 2022,
       "make": "Subaru",
-      "model": "Ascent Limited, No Accidents, One Owner, BC Vehicle",
-      "condition": "used"
+      "model": "Ascent",
+      "condition": "used",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek Onyx, One Owner, BC Vehicle",
       "vin": "JF2GUHFC4RH214573",
       "stock": "T827999",
       "color": "Blue",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/used/7af69d386dda.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2024/subaru/crosstrek/port-coquitlam/bc/71170581/?sale_class=used",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2024/subaru/crosstrek/port-coquitlam/bc/71170581/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -53,14 +60,17 @@
       "odometer_km": 28038,
       "year": 2024,
       "make": "Subaru",
-      "model": "Crosstrek Onyx, One Owner, BC Vehicle",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek Onyx, One Owner, No Accidents",
       "vin": "JF2GUHFC4RH247699",
       "stock": "T827962",
       "color": "Silver",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/used/f4e558a4c374.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2024/subaru/crosstrek/port-coquitlam/bc/71170596/?sale_class=used",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2024/subaru/crosstrek/port-coquitlam/bc/71170596/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -70,14 +80,17 @@
       "odometer_km": 30082,
       "year": 2024,
       "make": "Subaru",
-      "model": "Crosstrek Onyx, One Owner, No Accidents",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek Onyx, One Owner, No Accidents",
       "vin": "JF2GUHFC3RH274991",
       "stock": "U4496",
       "color": "Blue",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/used/af10ebcb2467.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2024/subaru/crosstrek/port-coquitlam/bc/71270807/?sale_class=used",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2024/subaru/crosstrek/port-coquitlam/bc/71270807/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -87,14 +100,17 @@
       "odometer_km": 89200,
       "year": 2024,
       "make": "Subaru",
-      "model": "Crosstrek Onyx, One Owner, No Accidents",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Crosstrek Limited, One Owner, BC Vehicle",
       "vin": "JF2GUHNC1RH278491",
       "stock": "T826692",
       "color": "Black",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/used/835008ea6988.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2024/subaru/crosstrek/port-coquitlam/bc/71461661/?sale_class=used",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2024/subaru/crosstrek/port-coquitlam/bc/71461661/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -104,14 +120,17 @@
       "odometer_km": 23660,
       "year": 2024,
       "make": "Subaru",
-      "model": "Crosstrek Limited, One Owner, BC Vehicle",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Tiguan Comfortline R-Line Black Edition, No Accidents",
       "vin": "3VV8B7AX1RM017953",
       "stock": "TH47508",
       "color": "Black",
+      "trim": "Comfortline R-Line Black Edition",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/used/f78de72e4499.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2024/volkswagen/tiguan/port-coquitlam/bc/71413686/?sale_class=used",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2024/volkswagen/tiguan/port-coquitlam/bc/71413686/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -121,14 +140,17 @@
       "odometer_km": 66683,
       "year": 2024,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortline R-Line Black Edition, No Accidents",
-      "condition": "used"
+      "model": "Tiguan",
+      "condition": "used",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2025 Honda Accord Hybrid Sport, One Owner, No Accidents",
       "vin": "1HGCY2F75SA801575",
       "stock": "TH47503",
       "color": "Silver",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/used/b75c672e944d.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2025/honda/accord-hybrid/port-coquitlam/bc/71270804/?sale_class=used",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2025/honda/accord-hybrid/port-coquitlam/bc/71270804/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -138,14 +160,17 @@
       "odometer_km": 9929,
       "year": 2025,
       "make": "Honda",
-      "model": "Accord Hybrid Sport, One Owner, No Accidents",
-      "condition": "used"
+      "model": "Accord Hybrid",
+      "condition": "used",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Crosstrek Onyx, One Owner, BC Vehicle",
       "vin": "JF2GUHFC3SH303623",
       "stock": "U4495",
       "color": "Silver",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/used/0c52bcff43fa.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2025/subaru/crosstrek/port-coquitlam/bc/71236356/?sale_class=used",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2025/subaru/crosstrek/port-coquitlam/bc/71236356/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -155,14 +180,17 @@
       "odometer_km": 11278,
       "year": 2025,
       "make": "Subaru",
-      "model": "Crosstrek Onyx, One Owner, BC Vehicle",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Crosstrek Touring, One Owner, BC Vehicle",
       "vin": "JF2GUADC9SH221793",
       "stock": "T828880",
       "color": "Blue",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/used/232645682462.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2025/subaru/crosstrek/port-coquitlam/bc/71358419/?sale_class=used",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2025/subaru/crosstrek/port-coquitlam/bc/71358419/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -172,14 +200,17 @@
       "odometer_km": 16720,
       "year": 2025,
       "make": "Subaru",
-      "model": "Crosstrek Touring, One Owner, BC Vehicle",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2025 Subaru Crosstrek Limited, No Accidents, One Owner, BC Vehicle",
       "vin": "JF2GUHNC5SH210104",
       "stock": "T829128",
       "color": "Grey",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/used/bc55f803523d.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2025/subaru/crosstrek/port-coquitlam/bc/71461660/?sale_class=used",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2025/subaru/crosstrek/port-coquitlam/bc/71461660/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -189,14 +220,17 @@
       "odometer_km": 15960,
       "year": 2025,
       "make": "Subaru",
-      "model": "Crosstrek Limited, No Accidents, One Owner, BC Vehicle",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx, One Owner, BC Vehicle",
       "vin": "JF2GUHFC4T8220249",
       "stock": "T828367",
       "color": "White",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/used/c448eecda7f0.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71170592/?sale_class=used",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71170592/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -206,14 +240,17 @@
       "odometer_km": 9226,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Onyx, One Owner, BC Vehicle",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Touring AWD",
       "vin": "JF2GUHDC1T8241871",
       "stock": "D-T8241",
       "color": "Brown",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/used/2a96b79e4ec1.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71186260/?sale_class=used",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71186260/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -223,14 +260,17 @@
       "odometer_km": 820,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Touring AWD",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Limited AWD",
       "vin": "JF2GUHNCXT8241530",
       "stock": "D-T8241",
       "color": "Silver",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/used/649c29e891c8.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71186275/?sale_class=used",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71186275/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -240,14 +280,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Limited AWD",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Limited AWD",
       "vin": "JF2GUHNC5T8219872",
       "stock": "D-T8219",
       "color": "Red",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/used/8aee8cade669.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71186277/?sale_class=used",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71186277/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -257,14 +300,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Limited AWD",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport AWD",
       "vin": "JF2SLDHC0TH467951",
       "stock": "D-TH467",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/used/7bc022160c9f.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/70717439/?sale_class=used",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/70717439/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -274,14 +320,17 @@
       "odometer_km": 560,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport AWD",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited AWD",
       "vin": "JF2SLDRC4TH457079",
       "stock": "D-TH457",
       "color": "Grey",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/used/6034a121ff27.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/70939465/?sale_class=used",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/70939465/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -291,14 +340,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited AWD",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport AWD",
       "vin": "JF2SLDHC8TH463713",
       "stock": "D-TH463",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/used/065a6691da20.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71186272/?sale_class=used",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71186272/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -308,14 +360,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport AWD",
-      "condition": "used"
+      "model": "Forester",
+      "condition": "used",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT AWD",
       "vin": "JF2BURJD6TY529253",
       "stock": "D-TY529",
       "color": "Black",
+      "trim": "Premier XT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/used/6a7bf624a8c4.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71186271/?sale_class=used",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71186271/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -325,14 +380,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Premier XT AWD",
-      "condition": "used"
+      "model": "Outback",
+      "condition": "used",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited AWD",
       "vin": "JF2GUSND2T8289996",
       "stock": "T828999",
       "color": "White",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/41a42984c216.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek-hybrid/port-coquitlam/bc/71225208/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek-hybrid/port-coquitlam/bc/71225208/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -342,14 +400,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Hybrid Hybrid Limited AWD",
-      "condition": "new"
+      "model": "Crosstrek Hybrid Hybrid",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited AWD",
       "vin": "JF2GUSND8T8289081",
       "stock": "T828908",
       "color": "Silver",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/d417a1201750.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek-hybrid/port-coquitlam/bc/71250845/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek-hybrid/port-coquitlam/bc/71250845/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -359,14 +420,17 @@
       "odometer_km": 13,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Hybrid Hybrid Limited AWD",
-      "condition": "new"
+      "model": "Crosstrek Hybrid Hybrid",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited AWD",
       "vin": "JF2GUSND5T8266924",
       "stock": "T826692",
       "color": "White",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/b848f553fb3c.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek-hybrid/port-coquitlam/bc/71278447/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek-hybrid/port-coquitlam/bc/71278447/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -376,14 +440,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Hybrid Hybrid Limited AWD",
-      "condition": "new"
+      "model": "Crosstrek Hybrid Hybrid",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited AWD",
       "vin": "JF2GUSND5T8267328",
       "stock": "T826732",
       "color": "Grey",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/c3e0fe986581.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek-hybrid/port-coquitlam/bc/71278451/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek-hybrid/port-coquitlam/bc/71278451/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -393,14 +460,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Hybrid Hybrid Limited AWD",
-      "condition": "new"
+      "model": "Crosstrek Hybrid Hybrid",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited AWD",
       "vin": "JF2GUSND0T8280200",
       "stock": "T828020",
       "color": "White",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/f1f8ad156ee6.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek-hybrid/port-coquitlam/bc/71294373/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek-hybrid/port-coquitlam/bc/71294373/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -410,14 +480,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Hybrid Hybrid Limited AWD",
-      "condition": "new"
+      "model": "Crosstrek Hybrid Hybrid",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited AWD",
       "vin": "JF2GUSND6T8280069",
       "stock": "T828006",
       "color": "Silver",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/1b7f7cfec595.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek-hybrid/port-coquitlam/bc/71294376/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek-hybrid/port-coquitlam/bc/71294376/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -427,14 +500,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Hybrid Hybrid Limited AWD",
-      "condition": "new"
+      "model": "Crosstrek Hybrid Hybrid",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited AWD",
       "vin": "JF2GUSND7T8291288",
       "stock": "T829128",
       "color": "Brown",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/5ec498dc61a2.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek-hybrid/port-coquitlam/bc/71305591/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek-hybrid/port-coquitlam/bc/71305591/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -444,14 +520,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Hybrid Hybrid Limited AWD",
-      "condition": "new"
+      "model": "Crosstrek Hybrid Hybrid",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited AWD",
       "vin": "JF2GUSND3T8275721",
       "stock": "T827572",
       "color": "Brown",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/29be899d0614.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek-hybrid/port-coquitlam/bc/71315929/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek-hybrid/port-coquitlam/bc/71315929/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -461,14 +540,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Hybrid Hybrid Limited AWD",
-      "condition": "new"
+      "model": "Crosstrek Hybrid Hybrid",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Limited AWD",
       "vin": "JF2GUHNC5T8259899",
       "stock": "T825989",
       "color": "Blue",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/65e6d1e7d7f1.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/70366435/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/70366435/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -478,14 +560,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Limited AWD",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Convenience AWD",
       "vin": "JF2GUHBC5T8269644",
       "stock": "T826964",
       "color": "Grey",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/352fd007b5d5.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/70809002/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/70809002/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -495,14 +580,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Convenience AWD",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Touring AWD",
       "vin": "JF2GUHDC2T8273535",
       "stock": "T827353",
       "color": "Brown",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/3a4e892b2ba7.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71117627/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71117627/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -512,14 +600,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Touring AWD",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Convenience AWD",
       "vin": "JF2GUHBC7T8264719",
       "stock": "T826471",
       "color": "Blue",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/720828fec248.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71117628/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71117628/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -529,14 +620,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Convenience AWD",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Convenience AWD",
       "vin": "JF2GUHBC8T8273736",
       "stock": "T827373",
       "color": "Brown",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/2f36a2d72fe0.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71117632/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71117632/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -546,14 +640,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Convenience AWD",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Convenience AWD",
       "vin": "JF2GUHBC3T8279654",
       "stock": "T827965",
       "color": "White",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/7328c38c1c02.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71156032/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71156032/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -563,14 +660,17 @@
       "odometer_km": 13,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Convenience AWD",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Convenience AWD",
       "vin": "JF2GUHBC0T8279966",
       "stock": "T827996",
       "color": "Grey",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/4cb92f1e1a5e.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71158047/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71158047/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -580,14 +680,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Convenience AWD",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Convenience AWD",
       "vin": "JF2GUHBCXT8279957",
       "stock": "T827995",
       "color": "White",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/76199f2df4b9.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71158054/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71158054/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -597,14 +700,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Convenience AWD",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx AWD",
       "vin": "JF2GUHFC5T8279584",
       "stock": "T827958",
       "color": "Silver",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/e6cb05f1d014.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71186261/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71186261/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -614,14 +720,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Onyx AWD",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Limited AWD",
       "vin": "JF2GUHNC2T8279530",
       "stock": "T827953",
       "color": "Silver",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/cdf073731fae.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71186274/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71186274/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -631,14 +740,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Limited AWD",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Convenience AWD",
       "vin": "JF2GUHBC7T8279849",
       "stock": "T827984",
       "color": "Grey",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/79e09b336964.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71186276/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71186276/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -648,8 +760,10 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Convenience AWD",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek ",
@@ -666,13 +780,16 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Touring AWD",
       "vin": "JF2GUHDCXT8289479",
       "stock": "T828947",
       "color": "Brown",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/fcd331a7748f.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71228139/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71228139/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -682,14 +799,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Touring AWD",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Limited AWD",
       "vin": "JF2GUHNC7T8290099",
       "stock": "T829009",
       "color": "White",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/ee4fbec37622.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71229250/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71229250/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -699,14 +819,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Limited AWD",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Limited AWD",
       "vin": "JF2GUHNC3T8288933",
       "stock": "T828893",
       "color": "Red",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/88bea62d93d5.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71229251/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71229251/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -716,14 +839,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Limited AWD",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Convenience AWD",
       "vin": "JF2GUHBC9T8288973",
       "stock": "T828897",
       "color": "Grey",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/9ecdfd95f54c.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71229257/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71229257/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -733,14 +859,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Convenience AWD",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Touring AWD",
       "vin": "JF2GUHDC9T8289103",
       "stock": "T828910",
       "color": "White",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/3db41cd39fcb.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71229263/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71229263/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -750,14 +879,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Touring AWD",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Limited AWD",
       "vin": "JF2GUHNC4T8289105",
       "stock": "T828910",
       "color": "Blue",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/d41614ec67dd.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71250847/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71250847/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -767,14 +899,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Limited AWD",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx AWD",
       "vin": "JF2GUHFC6T8288746",
       "stock": "T828874",
       "color": "Red",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/1ecf259fb725.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71250850/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71250850/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -784,14 +919,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Onyx AWD",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Limited AWD",
       "vin": "JF2GUHNC3T8267418",
       "stock": "T826741",
       "color": "Black",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/5bcc789d8302.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71278448/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71278448/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -801,14 +939,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Limited AWD",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Touring AWD",
       "vin": "JF2GUHDC6T8279810",
       "stock": "T827981",
       "color": "White",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/2240f46fcf3a.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71294380/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71294380/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -818,14 +959,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Touring AWD",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Convenience AWD",
       "vin": "JF2GUHBC3T8280397",
       "stock": "T828039",
       "color": "Brown",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/ee81cc052d3d.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71294386/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71294386/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -835,14 +979,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Convenience AWD",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx AWD",
       "vin": "JF2GUHFC1T8279839",
       "stock": "T827983",
       "color": "Black",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/244ace9b1736.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71294390/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71294390/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -852,14 +999,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Onyx AWD",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Convenience AWD",
       "vin": "JF2GUHBC2T8280276",
       "stock": "T828027",
       "color": "Brown",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/7bfb4eb1e97e.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71300508/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71300508/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -869,14 +1019,17 @@
       "odometer_km": 8,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Convenience AWD",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx AWD",
       "vin": "JF2GUHFC7T8291526",
       "stock": "T829152",
       "color": "Blue",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/1467e70e13ef.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71305594/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71305594/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -886,14 +1039,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Onyx AWD",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx AWD",
       "vin": "JF2GUHFC4T8291919",
       "stock": "T829191",
       "color": "Brown",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/4c36acf5d2f6.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71340202/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71340202/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -903,14 +1059,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Onyx AWD",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Crosstrek Onyx AWD",
       "vin": "JF2GUHFC7T8291767",
       "stock": "T829176",
       "color": "Blue",
+      "trim": "Onyx",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/13149b6d3e2f.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71340204/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/crosstrek/port-coquitlam/bc/71340204/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -920,14 +1079,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Crosstrek Onyx AWD",
-      "condition": "new"
+      "model": "Crosstrek",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited AWD",
       "vin": "JF2SLDRC6TH460341",
       "stock": "TH46034",
       "color": "Black",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/c3b2bd2bddaa.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/69614507/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/69614507/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -937,14 +1099,17 @@
       "odometer_km": 16,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport AWD",
       "vin": "JF2SLDHC0TH464340",
       "stock": "TH46434",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/1f37ecb877d0.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/70366440/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/70366440/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -954,14 +1119,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited AWD",
       "vin": "JF2SLDRC4TH466154",
       "stock": "TH46615",
       "color": "Grey",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/9cea320dd409.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/70391089/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/70391089/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -971,14 +1139,17 @@
       "odometer_km": 13,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited AWD",
       "vin": "JF2SLDRC3TH464718",
       "stock": "TH46471",
       "color": "Grey",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/3a0f371aa0dd.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/70443254/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/70443254/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -988,14 +1159,17 @@
       "odometer_km": 13,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport AWD",
       "vin": "JF2SLDHC7TH465565",
       "stock": "TH46556",
       "color": "Blue",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/5decc5d4a562.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/70472828/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/70472828/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1005,14 +1179,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Convenience AWD",
       "vin": "JF2SLDAC8TH465181",
       "stock": "TH46518",
       "color": "Grey",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/286d487ed844.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/70495557/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/70495557/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1022,14 +1199,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Convenience AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport AWD",
       "vin": "JF2SLDHC0TH465990",
       "stock": "TH46599",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/9c43dbd1d27c.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/70495560/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/70495560/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1039,14 +1219,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport AWD",
       "vin": "JF2SLDHC5TH467654",
       "stock": "TH46765",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/e36fab2d88ba.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/70746448/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/70746448/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1056,14 +1239,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited AWD",
       "vin": "JF2SLDRCXTH467938",
       "stock": "TH46793",
       "color": "Green",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/f9065357e5c3.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/70759941/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/70759941/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1073,14 +1259,17 @@
       "odometer_km": 13,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring AWD",
       "vin": "JF2SLDDC7TH468259",
       "stock": "TH46825",
       "color": "Grey",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/a608a1f0f9a9.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/70785495/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/70785495/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1090,14 +1279,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring AWD",
       "vin": "JF2SLDDC5TH468289",
       "stock": "TH46828",
       "color": "Green",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/f2a01f4dc742.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/70809004/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/70809004/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1107,14 +1299,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Premier AWD",
       "vin": "JF2SLDTC0TH469352",
       "stock": "TH46935",
       "color": "White",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/ef68ae5b8df6.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/70880915/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/70880915/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1124,14 +1319,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Premier AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport AWD",
       "vin": "JF2SLDHC4TH469038",
       "stock": "TH46903",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/d11b0edac656.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/70880924/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/70880924/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1141,14 +1339,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited AWD",
       "vin": "JF2SLDRC3TH469028",
       "stock": "TH46902",
       "color": "Grey",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/ff983d588236.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/70880931/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/70880931/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1158,14 +1359,17 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport AWD",
       "vin": "JF2SLDHCXTH469187",
       "stock": "TH46918",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/56e51a54f122.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/70915158/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/70915158/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1175,14 +1379,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring AWD",
       "vin": "JF2SLDDC0TH471472",
       "stock": "TH47147",
       "color": "White",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/5eb01e7ab5b8.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71117626/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71117626/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1192,14 +1399,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Convenience AWD",
       "vin": "JF2SLDAC2TH469971",
       "stock": "TH46997",
       "color": "White",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/0cc5fdd84a8e.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71130901/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71130901/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1209,14 +1419,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Convenience AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport AWD",
       "vin": "JF2SLDHC0TH469991",
       "stock": "TH46999",
       "color": "Blue",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/a662149b6dc2.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71141989/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71141989/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1226,14 +1439,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring",
       "vin": "JF2SLDDCXTH469874",
       "stock": "TH46987",
       "color": "Grey",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/7d83e8112716.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71145343/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71145343/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1243,14 +1459,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited AWD",
       "vin": "JF2SLDRC0TH469598",
       "stock": "TH46959",
       "color": "White",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/58a2c52e24f1.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71153861/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71153861/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1260,14 +1479,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Convenience AWD",
       "vin": "JF2SLDAC3TH472331",
       "stock": "TH47233",
       "color": "Grey",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/230dd19342af.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71156029/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71156029/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1277,14 +1499,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Convenience AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring AWD",
       "vin": "JF2SLDDC2TH472087",
       "stock": "TH47208",
       "color": "Grey",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/5af166d7d524.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71156033/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71156033/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1294,14 +1519,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited AWD",
       "vin": "JF2SLDRCXTH469561",
       "stock": "TH46956",
       "color": "Black",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/cc150b360f60.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71158050/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71158050/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1311,14 +1539,17 @@
       "odometer_km": 13,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Convenience AWD",
       "vin": "JF2SLDACXTH469202",
       "stock": "TH46920",
       "color": "Grey",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/0e77e1cfc92e.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71158053/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71158053/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1328,14 +1559,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Convenience AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited AWD",
       "vin": "JF2SLDRC2TH467528",
       "stock": "TH46752",
       "color": "Green",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/6b2501269c04.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71182972/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71182972/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1345,14 +1579,17 @@
       "odometer_km": 13,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport AWD",
       "vin": "JF2SLDHCXTH472395",
       "stock": "TH47239",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/722a28cadec2.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71182973/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71182973/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1362,14 +1599,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring AWD",
       "vin": "JF2SLDDC2TH467357",
       "stock": "TH46735",
       "color": "White",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/4915cac61524.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71182983/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71182983/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1379,14 +1619,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport AWD",
       "vin": "JF2SLDHC2TH469748",
       "stock": "TH46974",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/b210ece2c30f.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71186262/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71186262/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1396,14 +1639,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport AWD",
       "vin": "JF2SLDHC5TH470005",
       "stock": "TH47000",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/40129ff85bef.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71186263/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71186263/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1413,14 +1659,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier AWD",
       "vin": "JF2SLSTD5TH467691",
       "stock": "TH46769",
       "color": "White",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/907112715f7d.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71186264/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71186264/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1430,14 +1679,17 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Hybrid Premier AWD",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring AWD",
       "vin": "JF2SLDDC4TH466467",
       "stock": "TH46646",
       "color": "Black",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/944e8227dd46.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71186265/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71186265/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1447,14 +1699,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring AWD",
       "vin": "JF2SLDDC0TH469740",
       "stock": "TH46974",
       "color": "Grey",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/3d5045a581ab.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71186266/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71186266/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1464,14 +1719,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited AWD",
       "vin": "JF2SLDRC1TH469710",
       "stock": "TH46971",
       "color": "Grey",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/d2e6381c0c11.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71186268/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71186268/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1481,14 +1739,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport AWD",
       "vin": "JF2SLDHC6TH469834",
       "stock": "TH46983",
       "color": "Green",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/35c4dec24f79.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71186269/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71186269/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1498,14 +1759,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring AWD",
       "vin": "JF2SLDDC4TH469773",
       "stock": "TH46977",
       "color": "Green",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/a1f560fbe772.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71186278/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71186278/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1515,14 +1779,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport AWD",
       "vin": "JF2SLDHCXTH472817",
       "stock": "TH47281",
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/b3d46321ca61.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71204144/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71204144/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1532,14 +1799,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier AWD",
       "vin": "JF2SLSTD9TH468620",
       "stock": "TH46862",
       "color": "Grey",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/27d521f98cbe.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71204148/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71204148/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1549,14 +1819,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Hybrid Premier AWD",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier AWD",
       "vin": "JF2SLSTDXTH475141",
       "stock": "TH47514",
       "color": "White",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/f59b735de475.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71229253/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71229253/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1566,14 +1839,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Hybrid Premier AWD",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier AWD",
       "vin": "JF2SLSTD7TH475081",
       "stock": "TH47508",
       "color": "Grey",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/0e4a80e9a4bc.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71243273/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71243273/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1583,14 +1859,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Hybrid Premier AWD",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier AWD",
       "vin": "JF2SLSTD1TH475092",
       "stock": "TH47509",
       "color": "Green",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/4142406d9808.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71243276/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71243276/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1600,14 +1879,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Hybrid Premier AWD",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited AWD",
       "vin": "JF2SLDRC7TH475060",
       "stock": "TH47506",
       "color": "Green",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/cb3bf26ef61d.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71243277/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71243277/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1617,14 +1899,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport AWD",
       "vin": "JF2SLDHC5TH475172",
       "stock": "TH47517",
       "color": "Blue",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/1026b2eb1321.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71244710/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71244710/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1634,14 +1919,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring AWD",
       "vin": "JF2SLDDC8TH476399",
       "stock": "TH47639",
       "color": "Green",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/4bf95c40438e.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71278445/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71278445/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1651,14 +1939,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring AWD",
       "vin": "JF2SLDDC0TH476719",
       "stock": "TH47671",
       "color": "Black",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/30bc2920f126.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71278446/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71278446/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1668,14 +1959,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier AWD",
       "vin": "JF2SLSTD7TH466753",
       "stock": "TH46675",
       "color": "Blue",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/90154f6ebe8d.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71278452/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71278452/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1685,14 +1979,17 @@
       "odometer_km": 13,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Hybrid Premier AWD",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited AWD",
       "vin": "JF2SLDRC5TH467183",
       "stock": "TH46718",
       "color": "Green",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/926412bb8bef.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71278456/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71278456/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1702,14 +1999,17 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Convenience AWD",
       "vin": "JF2SLDAC7TH476334",
       "stock": "TH47633",
       "color": "Black",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/1d8e64068f57.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71278457/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71278457/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1719,14 +2019,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Convenience AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring AWD",
       "vin": "JF2SLDDC7TH467337",
       "stock": "TH46733",
       "color": "Grey",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/eb7d41d8a5a2.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71278460/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71278460/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1736,14 +2039,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring AWD",
       "vin": "JF2SLDDC4TH476724",
       "stock": "TH47672",
       "color": "White",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/62c9ce02317c.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71294372/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71294372/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1753,14 +2059,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Convenience AWD",
       "vin": "JF2SLDAC5TH476283",
       "stock": "TH47628",
       "color": "Grey",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/495b25835562.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71294378/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71294378/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1770,14 +2079,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Convenience AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring AWD",
       "vin": "JF2SLDDCXTH476386",
       "stock": "TH47638",
       "color": "Blue",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/3d61d365ecb4.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71294389/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71294389/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1787,14 +2099,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring AWD",
       "vin": "JF2SLDDC2TH472154",
       "stock": "TH47215",
       "color": "Green",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/2f6abdced0b2.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71294392/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71294392/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1804,14 +2119,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited AWD",
       "vin": "JF2SLDRC1TH476317",
       "stock": "TH47631",
       "color": "White",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/f0e020e5c8c5.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71305587/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71305587/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1821,14 +2139,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring AWD",
       "vin": "JF2SLDDC5TH476408",
       "stock": "TH47640",
       "color": "Grey",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/e4893bbb4765.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71305588/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71305588/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1838,14 +2159,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier AWD",
       "vin": "JF2SLSTD2TH475912",
       "stock": "TH47591",
       "color": "Green",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/e4b106bff04c.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71305590/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71305590/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1855,14 +2179,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Hybrid Premier AWD",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring AWD",
       "vin": "JF2SLDDC7TH467208",
       "stock": "TH46720",
       "color": "Grey",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/de50cca1fd46.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71305593/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71305593/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1872,14 +2199,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Convenience AWD",
       "vin": "JF2SLDAC4TH476338",
       "stock": "TH47633",
       "color": "Green",
+      "trim": "Convenience",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/e7ce66d7619a.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71315927/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71315927/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1889,14 +2219,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Convenience AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Touring AWD",
       "vin": "JF2SLDDC5TH476666",
       "stock": "TH47666",
       "color": "Grey",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/fb3c6dfabd09.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71317774/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71317774/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1906,14 +2239,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Touring AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited AWD",
       "vin": "JF2SLDRC5TH476403",
       "stock": "TH47640",
       "color": "Blue",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/021a4b6fc036.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71328014/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71328014/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1923,14 +2259,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited AWD",
       "vin": "JF2SLDRC4TH476361",
       "stock": "TH47636",
       "color": "Blue",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/0236bf7165d7.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71328015/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71328015/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1940,14 +2279,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport AWD",
       "vin": "JF2SLDHC9TH476406",
       "stock": "TH47640",
       "color": "Green",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/4b97a0031252.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71329661/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71329661/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1957,14 +2299,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport AWD",
       "vin": "JF2SLDHC6TH476699",
       "stock": "TH47669",
       "color": "Blue",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/d710c85be695.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71329665/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71329665/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1974,14 +2319,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport AWD",
       "vin": "JF2SLDHC5TH476726",
       "stock": "TH47672",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/6e9c5b5bb28f.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71340194/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71340194/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1991,14 +2339,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport AWD",
       "vin": "JF2SLDHC3TH476756",
       "stock": "TH47675",
       "color": "White",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/1bbbdf4438d3.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71340196/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71340196/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2008,14 +2359,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport AWD",
       "vin": "JF2SLDHC7TH476713",
       "stock": "TH47671",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/5a85afb6dbd2.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71340198/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71340198/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2025,14 +2379,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited AWD",
       "vin": "JF2SLDRC5TH476725",
       "stock": "TH47672",
       "color": "Grey",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/b6b4e863ece5.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71340200/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71340200/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2042,14 +2399,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Premier AWD",
       "vin": "JF2SLDTC4TH476675",
       "stock": "TH47667",
       "color": "Grey",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/4f47dd93a8d5.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71340201/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71340201/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2059,14 +2419,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Premier AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited AWD",
       "vin": "JF2SLDRC9TH476243",
       "stock": "TH47624",
       "color": "Grey",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/b56772a5574d.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71375159/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71375159/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2076,14 +2439,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Limited AWD",
       "vin": "JF2SLDRC3TH477419",
       "stock": "TH47741",
       "color": "Blue",
+      "trim": "Limited",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/aa4679b621ec.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71375160/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71375160/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2093,14 +2459,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Limited AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Sport AWD",
       "vin": "JF2SLDHC6TH476671",
       "stock": "TH47667",
       "color": "Black",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/9aad4a39dd02.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71375161/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71375161/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2110,14 +2479,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Sport AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier AWD",
       "vin": "JF2SLSTDXTH476113",
       "stock": "TH47611",
       "color": "White",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/61161af2b9ed.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71375162/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71375162/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2127,14 +2499,17 @@
       "odometer_km": 21,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Hybrid Premier AWD",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier AWD",
       "vin": "JF2SLSTD4TH476169",
       "stock": "TH47616",
       "color": "White",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/1ee5862f812d.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71378186/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71378186/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2144,14 +2519,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Hybrid Premier AWD",
-      "condition": "new"
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Forester Premier AWD",
       "vin": "JF2SLDTC4TH476739",
       "stock": "TH47673",
       "color": "Grey",
+      "trim": "Premier",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/b265756e2678.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71379517/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/forester/port-coquitlam/bc/71379517/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2161,14 +2539,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Forester Premier AWD",
-      "condition": "new"
+      "model": "Forester",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Impreza Touring AWD",
       "vin": "JF1GUAFC2T8291736",
       "stock": "T829173",
       "color": "Grey",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/95d92dda6dd0.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/impreza/port-coquitlam/bc/71369622/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/impreza/port-coquitlam/bc/71369622/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2178,14 +2559,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Impreza Touring AWD",
-      "condition": "new"
+      "model": "Impreza",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT AWD",
       "vin": "JF2BURHD5TY551427",
       "stock": "TY55142",
       "color": "Green",
+      "trim": "Limited XT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/ca35762a74f4.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/70606761/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/70606761/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2195,14 +2579,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Limited XT AWD",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT AWD",
       "vin": "JF2BURHDXTY557594",
       "stock": "TY55759",
       "color": "White",
+      "trim": "Limited XT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/35e527df73c5.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/70725210/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/70725210/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2212,14 +2599,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Limited XT AWD",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Wilderness AWD",
       "vin": "JF2BURLD7TY576174",
       "stock": "TY57617",
       "color": "Black",
+      "trim": "Wilderness",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/1457f686aeb8.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71158052/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71158052/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2229,14 +2619,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Wilderness AWD",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT AWD",
       "vin": "JF2BURJD7TY556462",
       "stock": "TY55646",
       "color": "Black",
+      "trim": "Premier XT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/39616b7815b4.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71166534/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71166534/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2246,14 +2639,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Premier XT AWD",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT AWD",
       "vin": "JF2BURHD2TY575944",
       "stock": "TY57594",
       "color": "Green",
+      "trim": "Limited XT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/68b00652c335.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71166954/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71166954/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2263,14 +2659,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Limited XT AWD",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT AWD",
       "vin": "JF2BURHD8TY576452",
       "stock": "TY57645",
       "color": "Grey",
+      "trim": "Limited XT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/d3c0c9390c4e.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71186267/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71186267/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2280,14 +2679,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Limited XT AWD",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT AWD",
       "vin": "JF2BURJD9TY581573",
       "stock": "TY58157",
       "color": "White",
+      "trim": "Premier XT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/daf137541ad8.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71186273/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71186273/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2297,14 +2699,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Premier XT AWD",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT AWD",
       "vin": "JF2BURHD0TY591639",
       "stock": "TY59163",
       "color": "Grey",
+      "trim": "Limited XT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/8dd07e4d158c.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71229254/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71229254/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2314,14 +2719,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Limited XT AWD",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT AWD",
       "vin": "JF2BURJD5TY591131",
       "stock": "TY59113",
       "color": "Grey",
+      "trim": "Premier XT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/143a33dae1e5.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71229255/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71229255/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2331,14 +2739,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Premier XT AWD",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring AWD",
       "vin": "JF2BUPCD5TY595763",
       "stock": "TY59576",
       "color": "Grey",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/afc73e09752c.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71278450/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71278450/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2348,14 +2759,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Touring AWD",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring AWD",
       "vin": "JF2BUPCD6TY594475",
       "stock": "TY59447",
       "color": "Green",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/8fa5581b6ccb.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71278461/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71278461/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2365,14 +2779,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Touring AWD",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT AWD",
       "vin": "JF2BURJD3TY594609",
       "stock": "TY59460",
       "color": "White",
+      "trim": "Premier XT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/1770499196d5.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71294374/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71294374/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2382,14 +2799,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Premier XT AWD",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Wilderness AWD",
       "vin": "JF2BURLD5TY594138",
       "stock": "TY59413",
       "color": "Grey",
+      "trim": "Wilderness",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/458ab90a008e.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71294383/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71294383/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2399,14 +2819,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Wilderness AWD",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT AWD",
       "vin": "JF2BURJD4TY594425",
       "stock": "TY59442",
       "color": "Grey",
+      "trim": "Premier XT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/6e7275da7026.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71294384/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71294384/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2416,14 +2839,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Premier XT AWD",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT AWD",
       "vin": "JF2BURJD4TY594585",
       "stock": "TY59458",
       "color": "White",
+      "trim": "Premier XT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/7dbdea80211b.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71294385/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71294385/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2433,14 +2859,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Premier XT AWD",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT AWD",
       "vin": "JF2BURHD5TY576408",
       "stock": "TY57640",
       "color": "White",
+      "trim": "Limited XT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/96fbb7fe9201.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71294388/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71294388/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2450,14 +2879,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Limited XT AWD",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Touring AWD",
       "vin": "JF2BUPCD4TY595561",
       "stock": "TY59556",
       "color": "White",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/a0c2bf9fe1bc.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71294391/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71294391/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2467,14 +2899,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Touring AWD",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT AWD",
       "vin": "JF2BURJD1TY594690",
       "stock": "TY59469",
       "color": "Green",
+      "trim": "Premier XT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/1ade5f836da4.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71304587/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71304587/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2484,14 +2919,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Premier XT AWD",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Wilderness AWD",
       "vin": "JF2BURLD0TY594239",
       "stock": "TY59423",
       "color": "White",
+      "trim": "Wilderness",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/eb84a44ffc70.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71329666/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71329666/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2501,14 +2939,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Wilderness AWD",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Premier XT AWD",
       "vin": "JF2BURJD4TY594621",
       "stock": "TY59462",
       "color": "Blue",
+      "trim": "Premier XT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/31b731328909.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71340195/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71340195/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2518,14 +2959,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Premier XT AWD",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Limited XT AWD",
       "vin": "JF2BURHD4TY594379",
       "stock": "TY59437",
       "color": "Grey",
+      "trim": "Limited XT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/09adb2c0206f.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71340197/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71340197/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2535,14 +2979,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Limited XT AWD",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Outback Wilderness AWD",
       "vin": "JF2BURLD7TY594044",
       "stock": "TY59404",
       "color": "Grey",
+      "trim": "Wilderness",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/1c3f12d2ec7f.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71340203/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/outback/port-coquitlam/bc/71340203/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2552,8 +2999,10 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "Outback Wilderness AWD",
-      "condition": "new"
+      "model": "Outback",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru Trailseeker Premier AWD",
@@ -2567,13 +3016,16 @@
       "year": 2026,
       "make": "Subaru",
       "model": "Trailseeker Premier AWD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX tS Manual",
       "vin": "JF1VBAZ68T9806302",
       "stock": "T980630",
       "color": "Grey",
+      "trim": "tS Manual",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/c2e498151712.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/wrx/port-coquitlam/bc/70443257/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/wrx/port-coquitlam/bc/70443257/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2583,14 +3035,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "WRX tS Manual",
-      "condition": "new"
+      "model": "WRX",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX Sport-tech Manual",
       "vin": "JF1VBAN6XT9807215",
       "stock": "T980721",
       "color": "White",
+      "trim": "Sport-tech Manual",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/85ccdbef625c.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/wrx/port-coquitlam/bc/70606765/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/wrx/port-coquitlam/bc/70606765/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2600,14 +3055,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "WRX Sport-tech Manual",
-      "condition": "new"
+      "model": "WRX",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX GT CVT",
       "vin": "JF1VBAV61T8811501",
       "stock": "T881150",
       "color": "Blue",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/0c85420af367.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/wrx/port-coquitlam/bc/71085517/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/wrx/port-coquitlam/bc/71085517/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2617,14 +3075,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "WRX GT CVT",
-      "condition": "new"
+      "model": "WRX",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX GT CVT",
       "vin": "JF1VBAV67T8814175",
       "stock": "T881417",
       "color": "Grey",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/36b454db5544.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/wrx/port-coquitlam/bc/71278444/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/wrx/port-coquitlam/bc/71278444/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2634,14 +3095,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "WRX GT CVT",
-      "condition": "new"
+      "model": "WRX",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2026 Subaru WRX Sport Manual",
       "vin": "JF1VBAH67T9814036",
       "stock": "T981403",
       "color": "Blue",
+      "trim": "Sport Manual",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/3b4d56291262.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/wrx/port-coquitlam/bc/71305589/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2026/subaru/wrx/port-coquitlam/bc/71305589/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2651,14 +3115,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Subaru",
-      "model": "WRX Sport Manual",
-      "condition": "new"
+      "model": "WRX",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2027 Subaru BRZ tS Manual",
       "vin": "JF1ZDBS14V9700156",
       "stock": "V970015",
       "color": "Blue",
+      "trim": "tS Manual",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/ec2db7ae9ec8.html",
       "source_url": "https://www.jpsubarucoquitlam.com/vehicles/2027/subaru/brz/port-coquitlam/bc/71304586/?sale_class=new",
       "dealer_url": "https://www.jpsubarucoquitlam.com/vehicles/2027/subaru/brz/port-coquitlam/bc/71304586/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2668,8 +3135,10 @@
       "odometer_km": 12,
       "year": 2027,
       "make": "Subaru",
-      "model": "BRZ tS Manual",
-      "condition": "new"
+      "model": "BRZ",
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2027 Subaru Trailseeker Touring AWD",
@@ -2683,7 +3152,9 @@
       "year": 2027,
       "make": "Subaru",
       "model": "Trailseeker Touring AWD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     },
     {
       "name": "2027 Subaru Trailseeker Premier AWD",
@@ -2700,7 +3171,9 @@
       "year": 2027,
       "make": "Subaru",
       "model": "Trailseeker Premier AWD",
-      "condition": "new"
+      "condition": "new",
+      "city": "Port Coquitlam",
+      "province": "BC"
     }
   ]
 }
