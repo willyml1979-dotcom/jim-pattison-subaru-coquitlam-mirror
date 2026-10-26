@@ -1,7 +1,7 @@
 {
   "dealership": "Jim Pattison Subaru Coquitlam",
-  "generated_at": "2026-10-25T18:56:42",
-  "vehicle_count": 191,
+  "generated_at": "2026-10-25T19:14:38",
+  "vehicle_count": 190,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -858,7 +858,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 45528.0,
+      "price": 46527.0,
       "price_currency": "CAD"
     },
     {
@@ -880,7 +880,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 41028.0,
+      "price": 42027.0,
       "price_currency": "CAD"
     },
     {
@@ -891,7 +891,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 43528.0,
+      "price": 44527.0,
       "price_currency": "CAD"
     },
     {
@@ -902,7 +902,7 @@
       "make": "Subaru",
       "model": "Forester Hybrid",
       "condition": "new",
-      "price": 50028.0,
+      "price": 51527.0,
       "price_currency": "CAD"
     },
     {
@@ -913,7 +913,7 @@
       "make": "Subaru",
       "model": "Forester Hybrid",
       "condition": "new",
-      "price": 50028.0,
+      "price": 51527.0,
       "price_currency": "CAD"
     },
     {
@@ -924,7 +924,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 45528.0,
+      "price": 46527.0,
       "price_currency": "CAD"
     },
     {
@@ -935,7 +935,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 43528.0,
+      "price": 44527.0,
       "price_currency": "CAD"
     },
     {
@@ -946,7 +946,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 41028.0,
+      "price": 42027.0,
       "price_currency": "CAD"
     },
     {
@@ -957,7 +957,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 45528.0,
+      "price": 46527.0,
       "price_currency": "CAD"
     },
     {
@@ -968,7 +968,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 41028.0,
+      "price": 42027.0,
       "price_currency": "CAD"
     },
     {
@@ -979,7 +979,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 41028.0,
+      "price": 42027.0,
       "price_currency": "CAD"
     },
     {
@@ -1709,17 +1709,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Outback Touring AWD",
-      "vin": "JF2BUPCD5TY579790",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/18741bacec45.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "new",
-      "price": 43728.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru Outback Limited XT AWD",
       "vin": "JF2BURHD6TY576305",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/0ece92d2f304.html",
@@ -1815,7 +1804,7 @@
       "make": "Subaru",
       "model": "Outback",
       "condition": "new",
-      "price": 49028.0,
+      "price": 51027.0,
       "price_currency": "CAD"
     },
     {
@@ -1826,7 +1815,7 @@
       "make": "Subaru",
       "model": "Outback",
       "condition": "new",
-      "price": 52028.0,
+      "price": 52027.0,
       "price_currency": "CAD"
     },
     {
@@ -1837,7 +1826,7 @@
       "make": "Subaru",
       "model": "Outback",
       "condition": "new",
-      "price": 52028.0,
+      "price": 52027.0,
       "price_currency": "CAD"
     },
     {
