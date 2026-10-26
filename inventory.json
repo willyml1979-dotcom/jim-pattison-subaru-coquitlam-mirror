@@ -1,6 +1,6 @@
 {
   "dealership": "Jim Pattison Subaru Coquitlam",
-  "generated_at": "2026-10-26T04:10:54",
+  "generated_at": "2026-10-26T04:25:14",
   "vehicle_count": 190,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -528,7 +528,7 @@
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "new",
-      "price": 39928.0,
+      "price": 40928.0,
       "price_currency": "CAD"
     },
     {
@@ -539,7 +539,7 @@
       "make": "Subaru",
       "model": "Crosstrek",
       "condition": "new",
-      "price": 36428.0,
+      "price": 36427.0,
       "price_currency": "CAD"
     },
     {
@@ -990,7 +990,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 36028.0,
+      "price": 37027.0,
       "price_currency": "CAD"
     },
     {
@@ -1001,7 +1001,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 41028.0,
+      "price": 42027.0,
       "price_currency": "CAD"
     },
     {
@@ -1012,7 +1012,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 41028.0,
+      "price": 42027.0,
       "price_currency": "CAD"
     },
     {
@@ -1023,7 +1023,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 45528.0,
+      "price": 46527.0,
       "price_currency": "CAD"
     },
     {
@@ -1034,7 +1034,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 41028.0,
+      "price": 42027.0,
       "price_currency": "CAD"
     },
     {
@@ -1045,7 +1045,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 41028.0,
+      "price": 42027.0,
       "price_currency": "CAD"
     },
     {
@@ -1364,7 +1364,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 43528.0,
+      "price": 44527.0,
       "price_currency": "CAD"
     },
     {
@@ -1375,7 +1375,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 47528.0,
+      "price": 48527.0,
       "price_currency": "CAD"
     },
     {
@@ -1386,7 +1386,7 @@
       "make": "Subaru",
       "model": "Forester",
       "condition": "new",
-      "price": 41028.0,
+      "price": 42027.0,
       "price_currency": "CAD"
     },
     {
@@ -1837,7 +1837,7 @@
       "make": "Subaru",
       "model": "Outback",
       "condition": "new",
-      "price": 49028.0,
+      "price": 51027.0,
       "price_currency": "CAD"
     },
     {
@@ -1848,7 +1848,7 @@
       "make": "Subaru",
       "model": "Outback",
       "condition": "new",
-      "price": 43728.0,
+      "price": 43727.0,
       "price_currency": "CAD"
     },
     {
@@ -1859,7 +1859,7 @@
       "make": "Subaru",
       "model": "Outback",
       "condition": "new",
-      "price": 43728.0,
+      "price": 43727.0,
       "price_currency": "CAD"
     },
     {
@@ -1870,7 +1870,7 @@
       "make": "Subaru",
       "model": "Outback",
       "condition": "new",
-      "price": 49028.0,
+      "price": 51027.0,
       "price_currency": "CAD"
     },
     {
