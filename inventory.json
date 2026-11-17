@@ -1,7 +1,7 @@
 {
   "dealership": "Jim Pattison Subaru Coquitlam",
-  "generated_at": "2026-11-16T22:36:42",
-  "vehicle_count": 195,
+  "generated_at": "2026-11-16T22:53:18",
+  "vehicle_count": 157,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -314,37 +314,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited AWD",
-      "vin": "JF2GUSND3T8275721",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/29be899d0614.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek Hybrid Hybrid",
-      "condition": "new",
-      "price": 43421.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited AWD",
-      "vin": "JF2GUSNDXT8295660",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/e1d8edd8dae3.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek Hybrid Hybrid",
-      "condition": "new",
-      "price": 43421.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Hybrid Hybrid Limited AWD",
-      "vin": "JF2GUSND0T8295604",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/88d891e8a694.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek Hybrid Hybrid",
-      "condition": "new"
-    },
-    {
       "name": "2026 Subaru Crosstrek Limited AWD",
       "vin": "JF2GUHNC5T8259899",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/65e6d1e7d7f1.html",
@@ -353,17 +322,6 @@
       "model": "Crosstrek",
       "condition": "new",
       "price": 39928.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Convenience AWD",
-      "vin": "JF2GUHBC5T8269644",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/352fd007b5d5.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new",
-      "price": 33428.0,
       "price_currency": "CAD"
     },
     {
@@ -477,17 +435,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Crosstrek Touring AWD",
-      "vin": "JF2GUHDC6T8279810",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/2240f46fcf3a.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new",
-      "price": 36427.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru Crosstrek Onyx AWD",
       "vin": "JF2GUHFC7T8291526",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/1467e70e13ef.html",
@@ -510,17 +457,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Crosstrek Onyx AWD",
-      "vin": "JF2GUHFC0T8288547",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/63bf2cbe2658.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new",
-      "price": 37928.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru Crosstrek Convenience AWD",
       "vin": "JF2GUHBC0T8295102",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/7d4c888e219b.html",
@@ -529,17 +465,6 @@
       "model": "Crosstrek",
       "condition": "new",
       "price": 33428.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Touring AWD",
-      "vin": "JF2GUHDC8T8295152",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/eddead60a957.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new",
-      "price": 36428.0,
       "price_currency": "CAD"
     },
     {
@@ -573,17 +498,6 @@
       "model": "Crosstrek",
       "condition": "new",
       "price": 37927.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Crosstrek Limited AWD",
-      "vin": "JF2GUHNC9T8285440",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/0bce99106b79.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Crosstrek",
-      "condition": "new",
-      "price": 40928.0,
       "price_currency": "CAD"
     },
     {
@@ -774,28 +688,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Forester Touring",
-      "vin": "JF2SLDDCXTH469874",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/7d83e8112716.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 41028.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Limited AWD",
-      "vin": "JF2SLDRC0TH469598",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/58a2c52e24f1.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 46527.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru Forester Convenience AWD",
       "vin": "JF2SLDAC3TH472331",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/230dd19342af.html",
@@ -804,17 +696,6 @@
       "model": "Forester",
       "condition": "new",
       "price": 37027.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Touring AWD",
-      "vin": "JF2SLDDC2TH472087",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/5af166d7d524.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 42027.0,
       "price_currency": "CAD"
     },
     {
@@ -884,17 +765,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Forester Sport AWD",
-      "vin": "JF2SLDHC5TH470005",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/40129ff85bef.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 44527.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru Forester Touring AWD",
       "vin": "JF2SLDDC0TH469740",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/3d5045a581ab.html",
@@ -917,28 +787,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Forester Hybrid Premier AWD",
-      "vin": "JF2SLSTD8TH471962",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/cdca43c01ed3.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester Hybrid",
-      "condition": "new",
-      "price": 51528.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Touring AWD",
-      "vin": "JF2SLDDC4TH469773",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/a1f560fbe772.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 42027.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru Forester Sport AWD",
       "vin": "JF2SLDHCXTH472817",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/b3d46321ca61.html",
@@ -947,28 +795,6 @@
       "model": "Forester",
       "condition": "new",
       "price": 44527.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Hybrid Premier AWD",
-      "vin": "JF2SLSTDXTH475141",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/f59b735de475.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester Hybrid",
-      "condition": "new",
-      "price": 51527.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Hybrid Premier AWD",
-      "vin": "JF2SLSTD1TH475092",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/4142406d9808.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester Hybrid",
-      "condition": "new",
-      "price": 51527.0,
       "price_currency": "CAD"
     },
     {
@@ -1060,17 +886,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Forester Touring AWD",
-      "vin": "JF2SLDDC2TH472154",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/2f6abdced0b2.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 42027.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru Forester Limited AWD",
       "vin": "JF2SLDRC1TH476317",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/f0e020e5c8c5.html",
@@ -1079,17 +894,6 @@
       "model": "Forester",
       "condition": "new",
       "price": 46527.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Touring AWD",
-      "vin": "JF2SLDDC5TH476408",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/e4893bbb4765.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 42027.0,
       "price_currency": "CAD"
     },
     {
@@ -1123,28 +927,6 @@
       "model": "Forester",
       "condition": "new",
       "price": 45528.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Limited AWD",
-      "vin": "JF2SLDRC4TH476361",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/0236bf7165d7.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 45528.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Sport AWD",
-      "vin": "JF2SLDHC9TH476406",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/4b97a0031252.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 43528.0,
       "price_currency": "CAD"
     },
     {
@@ -1291,17 +1073,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Forester Touring AWD",
-      "vin": "JF2SLDDC5TH471869",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/2fc69cea60a1.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 42028.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru Forester Limited AWD",
       "vin": "JF2SLDRCXTH471956",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/08dc9423ae05.html",
@@ -1365,17 +1136,6 @@
       "model": "Forester",
       "condition": "new",
       "price": 46528.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Hybrid Premier AWD",
-      "vin": "JF2SLSTD3TH471917",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/63f7c16b0537.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester Hybrid",
-      "condition": "new",
-      "price": 51528.0,
       "price_currency": "CAD"
     },
     {
@@ -1446,17 +1206,6 @@
     },
     {
       "name": "2026 Subaru Forester ",
-      "vin": "JF2SLDDC0TH478941",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/a91679f0df63.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 41028.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester ",
       "vin": "JF2SLDHC8TH479443",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/e59ffd1afaa6.html",
       "year": 2026,
@@ -1475,17 +1224,6 @@
       "model": "Forester",
       "condition": "new",
       "price": 36028.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Touring AWD",
-      "vin": "JF2SLDDC7TH479021",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/02a0dbf09b11.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 42028.0,
       "price_currency": "CAD"
     },
     {
@@ -1534,17 +1272,6 @@
     },
     {
       "name": "2026 Subaru Forester Hybrid Premier AWD",
-      "vin": "JF2SLSTD5TH474558",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/8f326095ff57.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester Hybrid",
-      "condition": "new",
-      "price": 51528.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Hybrid Premier AWD",
       "vin": "JF2SLSTD0TH474550",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/bbe221ddbb96.html",
       "year": 2026,
@@ -1588,14 +1315,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Impreza Touring AWD",
-      "vin": "JF1GUAFC3T8292247",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/570b9487f723.html",
+      "name": "2026 Subaru Forester Hybrid Premier",
+      "vin": "JF2SLSTD6TH479557",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/a0a961d3987d.html",
       "year": 2026,
       "make": "Subaru",
-      "model": "Impreza",
+      "model": "Forester Hybrid",
       "condition": "new",
-      "price": 34251.0,
+      "price": 50027.0,
       "price_currency": "CAD"
     },
     {
@@ -1618,17 +1345,6 @@
       "model": "Outback",
       "condition": "new",
       "price": 49028.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Outback Wilderness AWD",
-      "vin": "JF2BURLD7TY576174",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/1457f686aeb8.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "new",
-      "price": 52028.0,
       "price_currency": "CAD"
     },
     {
@@ -1662,17 +1378,6 @@
       "model": "Outback",
       "condition": "new",
       "price": 52278.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Outback Touring AWD",
-      "vin": "JF2BUPCD6TY594475",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/8fa5581b6ccb.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "new",
-      "price": 43728.0,
       "price_currency": "CAD"
     },
     {
@@ -1720,17 +1425,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Outback Premier XT AWD",
-      "vin": "JF2BURJD1TY594690",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/1ade5f836da4.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "new",
-      "price": 52278.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru Outback Wilderness AWD",
       "vin": "JF2BURLD0TY594239",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/eb84a44ffc70.html",
@@ -1750,17 +1444,6 @@
       "model": "Outback",
       "condition": "new",
       "price": 52278.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Outback Limited XT AWD",
-      "vin": "JF2BURHD4TY594379",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/09adb2c0206f.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "new",
-      "price": 49028.0,
       "price_currency": "CAD"
     },
     {
@@ -1830,28 +1513,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Outback Touring AWD",
-      "vin": "JF2BUPCDXTY581096",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/33d7ad8a5aaf.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "new",
-      "price": 43727.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Outback Premier XT AWD",
-      "vin": "JF2BURJD4TY596286",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/4eff3a18bc5a.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "new",
-      "price": 52277.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru Outback Limited XT AWD",
       "vin": "JF2BURHD6TY603647",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/8bd4494bfbac.html",
@@ -1866,17 +1527,6 @@
       "name": "2026 Subaru Outback Wilderness AWD",
       "vin": "JF2BURLD7TY563683",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/7067d9535256.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "new",
-      "price": 52027.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Outback Wilderness AWD",
-      "vin": "JF2BURLD7TY601560",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/cc2f0e797a84.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Outback",
@@ -1951,17 +1601,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Outback Premier XT AWD",
-      "vin": "JF2BURJD6TY603576",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/72d40074e36a.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Outback",
-      "condition": "new",
-      "price": 52278.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru Outback Limited XT AWD",
       "vin": "JF2BURHD0TY584884",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/7299d704841f.html",
@@ -2028,17 +1667,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Uncharted LR FWD",
-      "vin": "JTMABABE0TJ025007",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/d976da92b94e.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Uncharted LR FWD",
-      "condition": "new",
-      "price": 49821.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru WRX tS Manual",
       "vin": "JF1VBAZ68T9806302",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/c2e498151712.html",
@@ -2058,17 +1686,6 @@
       "model": "WRX",
       "condition": "new",
       "price": 45728.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru WRX GT CVT",
-      "vin": "JF1VBAV61T8811501",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/0c85420af367.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "WRX",
-      "condition": "new",
-      "price": 49128.0,
       "price_currency": "CAD"
     },
     {
@@ -2114,35 +1731,6 @@
       "condition": "new",
       "price": 44121.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Subaru Uncharted LR FWD",
-      "vin": "JTMABABE8VJ032595",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/e3976981e0da.html",
-      "year": 2027,
-      "make": "Subaru",
-      "model": "Uncharted LR FWD",
-      "condition": "new",
-      "price": 48121.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Subaru Uncharted GT AWD",
-      "vin": "JTMAAAAE1VJ028411",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/caaa524a6711.html",
-      "year": 2027,
-      "make": "Subaru",
-      "model": "Uncharted GT AWD",
-      "condition": "new"
-    },
-    {
-      "name": "2027 Subaru Uncharted GT AWD",
-      "vin": "JTMAAAAEXVJ029394",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/fb29ef5159e1.html",
-      "year": 2027,
-      "make": "Subaru",
-      "model": "Uncharted GT AWD",
-      "condition": "new"
     }
   ]
 }

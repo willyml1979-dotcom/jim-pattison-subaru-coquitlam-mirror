@@ -1,6 +1,6 @@
 # Jim Pattison Subaru Coquitlam
 
- dealership in Port Coquitlam. AI-readable inventory mirror, about 195 vehicles.
+ dealership in Port Coquitlam. AI-readable inventory mirror, about 157 vehicles.
 
 - Official website: https://www.jpsubarucoquitlam.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/used/
