@@ -1,7 +1,7 @@
 {
   "dealership": "Jim Pattison Subaru Coquitlam",
-  "generated_at": "2026-11-17T20:10:53",
-  "vehicle_count": 157,
+  "generated_at": "2026-11-17T22:59:26",
+  "vehicle_count": 156,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -875,17 +875,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Subaru Forester Touring AWD",
-      "vin": "JF2SLDDCXTH476386",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/3d61d365ecb4.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "new",
-      "price": 42027.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Subaru Forester Limited AWD",
       "vin": "JF2SLDRC1TH476317",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/f0e020e5c8c5.html",
@@ -1004,17 +993,6 @@
       "model": "Forester",
       "condition": "new",
       "price": 44528.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Subaru Forester Hybrid Premier AWD",
-      "vin": "JF2SLSTDXTH476113",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/61161af2b9ed.html",
-      "year": 2026,
-      "make": "Subaru",
-      "model": "Forester Hybrid",
-      "condition": "new",
-      "price": 50028.0,
       "price_currency": "CAD"
     },
     {
@@ -1318,6 +1296,17 @@
       "name": "2026 Subaru Forester Hybrid Premier",
       "vin": "JF2SLSTD6TH479557",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/a0a961d3987d.html",
+      "year": 2026,
+      "make": "Subaru",
+      "model": "Forester Hybrid",
+      "condition": "new",
+      "price": 50027.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Subaru Forester Hybrid Premier",
+      "vin": "JF2SLSTD6TH472933",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-subaru-coquitlam-mirror/new/48e8d5ba15c2.html",
       "year": 2026,
       "make": "Subaru",
       "model": "Forester Hybrid",
